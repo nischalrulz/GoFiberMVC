@@ -38,6 +38,6 @@
     "groceryPlaceOrder": "/api/event/participant/list",
     "groceryProcessOrder": "/api/event/participant/list",
     "createGroceryItem": "/api/event/participant/list",
-    "viewGroceryOrderInfo": "/api/event/participant/list",
+    "viewGroceryOrderInfo": "/api/event/participant/list"
   }
 }
